@@ -1,0 +1,35 @@
+[33mcommit 3e747f77c096bee3025b0ff83a6943aba7f80e17[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Matthew Sankey <matthewmsankey@gmail.com>
+Date:   Sat Jan 29 09:47:14 2022 +0700
+
+    edited index.html
+
+[33mcommit 8f1fd50efb1700b05f352a6f6205dbd61553a186[m
+Author: Matthew Sankey <matthewmsankey@gmail.com>
+Date:   Sat Jan 29 09:46:34 2022 +0700
+
+    Edited index.html and created burger.html and tacos.html
+
+[33mcommit c5c15435a93943c72810934e149b6ec8cb53316d[m
+Author: Matthew Sankey <matthewmsankey@gmail.com>
+Date:   Sat Jan 29 09:14:43 2022 +0700
+
+    Added content to Butter-Chicken
+
+[33mcommit 5f705f1ec830d246f52fb6473dd2d15e39da7ee6[m
+Author: Matthew Sankey <matthewmsankey@gmail.com>
+Date:   Sat Jan 29 09:06:35 2022 +0700
+
+    Edited index.html and butter-chiecken.html
+
+[33mcommit a9937f1a62a6c17646cb484a781b429746d97f04[m
+Author: Matthew Sankey <matthewmsankey@gmail.com>
+Date:   Sat Jan 29 08:56:31 2022 +0700
+
+    Boilerplate code for the project
+
+[33mcommit 03bbcf9c1293182ccd3b6adf0e27746f133ecdbd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MatthewSankey <36185337+MatthewSankey@users.noreply.github.com>
+Date:   Sat Jan 29 08:52:44 2022 +0700
+
+    Initial commit
